@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello from master...!");
         Service.findFirstNonRepeatedCharacter("akshaky");
+        System.out.println("Hello from bug-fix...!");
     }
 }
